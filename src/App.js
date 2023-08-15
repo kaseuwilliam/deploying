@@ -1,5 +1,5 @@
 import React,{useEffect, useState} from 'react'
-import axios, { Axios } from 'axios'
+import axios from 'axios'
 
 const BASE_URL = 'https://api.unsplash.com'
 
