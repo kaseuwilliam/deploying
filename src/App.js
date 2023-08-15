@@ -25,7 +25,7 @@ const App = () => {
     
     {images.map(image =>{
       
-      return <img src={image.urls.small} />
+      return <img src={image.urls.small} alt='from unsplash'/>
     })}
     
     </>
